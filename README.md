@@ -26,7 +26,7 @@ A collaborative drawing game built as a team project using a modern web stack.
 * Full-stack architecture (frontend + backend)
 * Focus on user experience and responsive design
 
-👉 [View Repository](https://github.com/MacMosby/YouDrawMeCrazy)
+👉 [View Repository](https://github.com/MacMosby/you-draw-me-crazy)
 
 ---
 
